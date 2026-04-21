@@ -9,10 +9,10 @@ This repository contains my self-study notes and Python implementations for Naoy
 I am an undergraduate student at Kobe University, planning to enter the Graduate School of Economics (EDS program). This repository serves as preparation and a long-term reference.
 
 ## Chapters covered
-- [ ] Ch. 1 — Linear Regression and OLS
-- [ ] Ch. 2 — Instrumental Variable
-- [ ] Ch. 3 — Program Evaluation
-- [ ] Ch. 4 — Matrix notation and Asymptotic theory
+- [x] Ch. 1 — Linear Regression and OLS
+- [x] Ch. 2 — Instrumental Variable
+- [x] Ch. 3 — Program Evaluation
+- [x] Ch. 4 — Matrix notation and Asymptotic theory
 - [ ] Ch. 5 — Orthogonality conditions and GMM
 - [ ] Ch. 6 — Limited dependent variables and Sample selection
 - [ ] Ch. 7 — Quantile regression
