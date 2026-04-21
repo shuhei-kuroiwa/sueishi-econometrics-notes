@@ -13,7 +13,7 @@ I am an undergraduate student at Kobe University, planning to enter the Graduate
 - [x] Ch. 2 — Instrumental Variable
 - [x] Ch. 3 — Program Evaluation
 - [x] Ch. 4 — Matrix notation and Asymptotic theory
-- [ ] Ch. 5 — Orthogonality conditions and GMM
+- [x] Ch. 5 — Orthogonality conditions and GMM
 - [ ] Ch. 6 — Limited dependent variables and Sample selection
 - [ ] Ch. 7 — Quantile regression
 - [ ] Ch. 8 — Bootstrap
