@@ -14,7 +14,7 @@ I am an undergraduate student at Kobe University, planning to enter the Graduate
 - [x] Ch. 3 — Program Evaluation
 - [x] Ch. 4 — Matrix notation and Asymptotic theory
 - [x] Ch. 5 — Orthogonality conditions and GMM
-- [ ] Ch. 6 — Limited dependent variables and Sample selection
+- [x] Ch. 6 — Limited dependent variables and Sample selection
 - [ ] Ch. 7 — Quantile regression
 - [ ] Ch. 8 — Bootstrap
 - [ ] Ch. 9 — Nonparametric methods
